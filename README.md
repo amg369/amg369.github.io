@@ -1,3 +1,3 @@
 # Welcome!
 
-Here's a pretty basic site I made with jekyll and Github Pages. To be updates with more impressive things in the future. 
+Here's a pretty basic site I made with jekyll and Github Pages. To be updated with more impressive things in the future. 
