@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "About Me"
-date:   2021-05-10 15:01:30 -0400
+date:   2021-09-07 15:01:30 -0400
 categories: Aliyah
 ---
-Hey, I'm Aliyah Geer. I'm from the Philly area and I'm currently a senior at Cornell majoring in Operations Research and Information Engineering. I'm also working on my 
-Masters of Engineering also at Cornell, with a concentration in Data Analytics. I love to longboard, listen to my vinyl record collection, and watch psych thrillers! I'm hoping to one day enter the workforce as a data scientist, with my interests primarily lying in natural language processing. 
-
+Hi, my name is Aliyah Geer. I'm originally from suburban Philadelphia and I'm a current Masters student at Cornell University working on my Masters of Engineering with a concentration in Data Analytics. My professional interests lie largely in cool things that we can do with data: statistical learning, natural language processing, and at the moment I'm especially curious about data infrastructure. Outside of work, I am an avid longboarder, hiker, and music enthusiast. 
