@@ -16,7 +16,7 @@
 title: Aliyah Geer
 email: amg369@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A site about the achievements of the one and only, Aliyah Geer. 
+  
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
